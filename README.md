@@ -1,1 +1,1 @@
-# parilius.nvim
+# Parilius
